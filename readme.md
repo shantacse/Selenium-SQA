@@ -1,26 +1,19 @@
-##### Process for Selenium execusion
 
-Step 1 -\> Launch the browser Step 2 -\> Navigate to the
-Website/Application Step 3 -\> Add tasks to do Step 4 -\> Close The
-Browser
+# Selenuim Web Testing
+A practicing project for test automation using selenium web driver
 
-##### STRUCTURE TO FIND XPATH
 
-##### SAMPLE XPATH EXAMPLE
+## Author
+- [@Tasnima Shanta](https://github.com/shantacse)
 
-//input[@placeholder ='Search']
 
-Where:
+# Process for Selenium execusion
+1 -> Launch the browser Step.
+2 -> Navigate to the Website/Application Step.
+3 -> Add tasks to do Step 4 -> Close The Browser.
 
-// -\> Need to set at the begining. input -\> Html tag name. \[\] -\>
-Used for find Attributes of perticular tag name. @ -\> For Target
-Attributes. ='attribute_name_here' -\> In Single Quotation need to use
-attibutes name.
+# Installation Process (Dependencies)
+npm install selenium-webdriver
 
-##### Tips
-
-1.  If you one to check two xpath either first one or second one then
-    need to write using pipeline operation as safetuy if change
-    //input[@placeholder ='Search'] \| //input[@id ='Search']
-
-2.  If no id or class found then find xpath
+# How to Run
+node test.js
