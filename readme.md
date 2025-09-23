@@ -4,8 +4,8 @@ A practicing project for test automation using selenium web driver
 
 
 ## Author
-- [@Tasnima Shanta](https://github.com/shantacse)
-- Email: stshantacse@gmail.com
+- [Tasnima Shanta](https://github.com/shantacse)
+- [Email](stshantacse@gmail.com)
 
 
 # Process for Selenium execusion
