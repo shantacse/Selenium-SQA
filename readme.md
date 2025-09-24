@@ -1,5 +1,5 @@
 
-# Selenuim Web Testing
+# Selenium Web Testing
 A practicing project for test automation using selenium web driver
 
 
